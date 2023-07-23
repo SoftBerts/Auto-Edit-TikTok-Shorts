@@ -1,0 +1,17 @@
+[
+    {
+      "type": "file",
+      "path": "C:/Users/Paulo/Desktop/TikTok/files/kauan.mp4", 
+      "startTime": "00:52:10",
+      "duration": 88,
+      "accelerate": 1
+    },
+    {
+      "type": "url",
+      "path": "https://www.youtube.com/watch?v=3uBzuKMDwt0",
+      "startTime": "00:02:00",
+      "duration": 88,
+      "accelerate": 2
+    }
+  ]
+
