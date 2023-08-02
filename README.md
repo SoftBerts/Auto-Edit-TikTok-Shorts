@@ -69,7 +69,7 @@ Isso irá instalar as bibliotecas `ffmpeg-static`, `fluent-ffmpeg`, `ytdl-core-d
 Para iniciar o script, execute o seguinte comando no terminal ou prompt de comando, no diretório do projeto:
 
 ```bash
-node app.js
+node index.js
 ```
 
 ### 4. Informe os Dados Necessários
@@ -88,7 +88,7 @@ O script irá combinar os dois vídeos, cortar os trechos especificados e redime
 
 ### Observação sobre o Visual Studio Code
 
-Você pode utilizar o Visual Studio Code como sua IDE para executar o script. Abra o projeto no Visual Studio Code, navegue até o arquivo `app.js` e clique com o botão direito do mouse. Selecione a opção "Run Code" para executar o script diretamente no terminal integrado do VS Code. Certifique-se de que o Node.js e o npm estejam corretamente configurados em sua máquina para utilizar essa funcionalidade.
+Você pode utilizar o Visual Studio Code como sua IDE para executar o script. Abra o projeto no Visual Studio Code, navegue até o arquivo `index.js` e clique com o botão direito do mouse. Selecione a opção "Run Code" para executar o script diretamente no terminal integrado do VS Code. Certifique-se de que o Node.js e o npm estejam corretamente configurados em sua máquina para utilizar essa funcionalidade.
 
 ### Importante: Configuração do FFmpeg
 
